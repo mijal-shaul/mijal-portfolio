@@ -70,9 +70,9 @@ const Works2 = () => {
         </li>
         <li
           className={`${
-            test === "Homepages" ? "text-[#FA5252]" : "fillter-btn"
+            test === "Homepage" ? "text-[#FA5252]" : "fillter-btn"
           } mr-4 md:mx-4`}
-          onClick={() => handleSearch("Homepages")}
+          onClick={() => handleSearch("Homepage")}
         >
           Homepages
         </li>
@@ -80,9 +80,9 @@ const Works2 = () => {
           className={`${
             test === "Logo" ? "text-[#FA5252]" : "fillter-btn ml-0"
           } mr-4 md:mx-4`}
-          onClick={() => handleSearch("Logo")}
+          onClick={() => handleSearch("App")}
         >
-          Logo
+          Apps
         </li>
         <li
           className={`${test === "UI/UX" ? "text-[#FA5252]" : "fillter-btn"}  `}
