@@ -10,7 +10,7 @@ import Seo from "../components/seo/Seo";
 const index = () => {
   return (
     <section className="bg-homeBg dark:bg-homeTwoBg-dark min-h-screen  bg-no-repeat bg-center bg-cover bg-fixed md:pb-16 w-full">
-      <Seo pageTitle="Contact" />
+      <Seo pageTitle="Contact - Mijal Shaul" />
       {/* End Head for Seo */}
 
       <Header />
@@ -32,9 +32,6 @@ const index = () => {
                     Contact
                   </h2>
                   {/* End contact address block */}
-                  <div className="grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 mb-[40px] grid gap-x-5 gap-y-7">
-                    <AddressTwo />
-                  </div>
                   {/* End contact address block */}
 
                   <ContactForm />

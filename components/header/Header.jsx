@@ -18,14 +18,14 @@ const Header = () => {
         {/* website logo */}
 
         <Link href="/">
-          <Image
+          {/* <Image
             className="h-[26px] lg:h-[32px]"
             width={153}
             height={26}
             priority
             src="/images/logo/logo.png"
             alt="logo"
-          />
+          /> */}
         </Link>
         {/* start mobile menu toggle and mode btn */}
         <div className="flex items-center">

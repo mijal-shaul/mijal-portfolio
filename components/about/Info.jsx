@@ -43,7 +43,7 @@ const Info = () => {
           {" "}
           <a
             className="hover:text-[#FA5252] duration-300 transition"
-            href="mijal.sharon9@gmail.com"
+            href="mailto:mijal.sharon9@gmail.com"
           >
             mijal.sharon9@gmail.com
           </a>

@@ -10,12 +10,12 @@ export default function Document() {
         />
         <meta
           name="description"
-          content="Bostami - Tailwind CSS  Personal Portfolio React Nextjs Template"
+          content="Mijal Shaul - Portfolio showcasing my skills and projects in UI/UX design and development."
         />
         <meta httpEquiv="x-ua-compatible" content="ie=edge" />
         <meta
           name="keywords"
-          content=" cv, portfolio, react nextjs portfolio, resume"
+          content="cv, portfolio, react nextjs portfolio, resume"
         />
         <meta name="ibthemes" content="ATFN" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />

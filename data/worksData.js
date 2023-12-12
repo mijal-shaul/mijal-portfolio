@@ -8,8 +8,8 @@ module.exports = [
     bg: "#FFF3FC",
     client: "Sriracha Chile",
     langages: "HTML, CSS, Javascript",
-    link: "https://www.themeforest.net",
-    linkText: "themeforest.net",
+    link: "https://figma.com/file/VdWuUb0otF1rpKG6e6lJX7/sriracha?type=design&node-id=0-1&mode=design&t=5WTgioGdijNfpuAO-0",
+    linkText: "figma.com",
     description:
       "This homepage is not just a collection of products; it's a curated brand experience designed using a pre-made Shopify template. From color palettes to typography, witness the meticulous adjustments that turned a standard template into a branded showcase for Sriracha.",
   },

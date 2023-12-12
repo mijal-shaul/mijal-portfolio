@@ -11,7 +11,7 @@ import Seo from "../components/seo/Seo";
 const index = () => {
   return (
     <section className="bg-homeBg dark:bg-homeTwoBg-dark min-h-screen  bg-no-repeat bg-center bg-cover bg-fixed  md:pb-16 w-full">
-      <Seo pageTitle="Resume" />
+      <Seo pageTitle="Resume - Mijal Shaul" />
       {/* End Head for Seo */}
 
       <Header />

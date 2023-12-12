@@ -1,6 +1,7 @@
 import { useTheme } from "next-themes";
 import Image from "next/image";
 import serviceData from "../../data/serviceData";
+import createParagraphs from "../../utilis/createParagraph";
 
 const Service = () => {
   const { theme, setTheme } = useTheme();
@@ -28,7 +29,7 @@ const Service = () => {
               {item?.title}
             </h3>
             <p className=" leading-8 text-gray-lite dark:text-[#A6A6A6]">
-              {item?.des}
+              {createParagraphs(item?.des)}
             </p>
           </div>
         </div>
